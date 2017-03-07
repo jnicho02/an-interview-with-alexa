@@ -6,7 +6,7 @@ Try a tutorial
 ==============
 https://developer.amazon.com/alexa-skills-kit/alexa-skill-quick-start-tutorial
 
-1. Join Amazon AWS
+1. Join Amazon AWS https://console.aws.amazon.com/console/home
 2. Go to Lambda
 3. Choose a region, choose only US East (N. Virginia) or EU (Ireland)!
 4. use alexa-skills-kit-color-expert-python blueprint
