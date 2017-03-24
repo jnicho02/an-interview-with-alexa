@@ -73,3 +73,6 @@ WhatsMyColorIntent yes please
 MyColorIsIntent my favorite color is {Color}
 
 15. Specify our ARN as the endpoint
+
+
+You can see what is being said on http://alexa.amazon.co.uk/

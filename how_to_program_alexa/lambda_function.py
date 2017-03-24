@@ -59,6 +59,7 @@ def get_whats_a_skill_response():
 
 def get_answering_response(intent):
     answers = {
+        'WhatAreYou': "I am a Conversational User Interface. "
         'WhatsASkill': "A skill is something I can do. ",
         'WhatsAnInteraction': "An interaction is an exchange between a human and a computer. "
     }
