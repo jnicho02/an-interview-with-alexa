@@ -1,0 +1,19 @@
+{
+    "intents": [
+    {
+      "intent": "WhatAreYou"
+    },
+    {
+      "intent": "WhatsASkill"
+    },
+    {
+      "intent": "WhatsAnInteraction"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
