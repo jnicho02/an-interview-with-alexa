@@ -1,3 +1,9 @@
+install https://github.com/awslabs/git-secrets
+
+$ brew install git-secrets
+$ git secrets --install
+$ git secrets --register-aws
+
 https://sbstjn.com/serverless-alexa-skill-for-amazon-echo-with-aws-lambda.html
 
 Servless the
