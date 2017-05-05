@@ -34,9 +34,6 @@ functions:
     events:
       - alexaSkill
 
-$ export AWS_ACCESS_KEY_ID=AKIAJWYYRLWTSDLRJQCA
-$ export AWS_SECRET_ACCESS_KEY=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
-
 $ sls invoke local -f hello
 $ sls deploy
 $ sls invoke -f hello
